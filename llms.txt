@@ -1,0 +1,51 @@
+# Nidhin Mahesh
+
+> Senior software engineer specializing in distributed systems, blockchain infrastructure, Zero Knowledge proofs, and mobile development (Flutter). Open to engineering roles.
+
+## About
+
+Nidhin Mahesh is a senior software engineer with deep expertise in distributed ledger technology and blockchain infrastructure. He previously served as Lead Engineer at Jupiter Meta (ZK Rollup on zkEVM) and co-led the Rubix Layer 1 Blockchain Protocol — building payment interfaces, staking mechanisms, and on-chain wallets for a no-gas-fee, green L1 platform.
+
+He holds a Bachelor's in Technology from Amrita University, where he led the Google Developer Student Club and FOSS Club. His published research spans blockchain applications in energy markets, social media DRM, and decentralized mobility infrastructure.
+
+## Skills
+
+- Distributed Systems & Blockchain Infrastructure
+- Zero Knowledge Proofs (zkEVM, ZK Rollup)
+- Layer 1 & Layer 2 Protocol Development
+- Flutter Mobile Development
+- Service Mesh & Edge AI
+- On-chain payment systems, staking mechanisms, oracle systems
+- Raspberry Pi / ARM-based distributed testbeds
+
+## Experience
+
+- Lead Engineer, Jupiter Meta — ZK Rollup on zkEVM for consumer-derived insights on Indian markets
+- Lead Engineer, Rubixchain — Co-led development of Rubix Layer 1 blockchain protocol
+- Blockchain Developer, TIFAC Core in Cyber Security, Coimbatore, India
+- Blockchain Intern, Center for Wireless Networks & Applications, Kerala, India
+
+## Indie Projects
+
+- **Fexr** — Independent project building infrastructure that turns crypto expertise into a service. Club model, staking strategies, and oracle systems package active management into passive yield instruments for passive holders.
+
+## Publications
+
+- "Blockchain Framework for Social Media DRM based on Secret Sharing" — Springer ICTIS 2020, Ahmedabad
+- "Conceptualizing Blockchain based Energy Market for Self Sustainable Community" — BlockSys 2019, Columbia University, New York
+- "Decentralized Power System and Future Mobility: Community Driven EV Charging Infrastructure" — TESCA 2019, Columbia University, New York
+
+## Education
+
+- Bachelor's in Technology, Amrita University
+- Led Google Developer Student Club and Free and Open-Source Software Club
+
+## Contact
+
+- Email: nidhinmahesh1@gmail.com
+- GitHub: https://github.com/nidhinmahesh
+- LinkedIn: https://linkedin.com/in/nidhinmahesh/
+- Twitter: https://twitter.com/nidhin_mahesh
+- Medium: https://medium.com/@nidhinmahesh
+- Google Scholar: https://scholar.google.com/citations?user=Vt3x8ukAAAAJ&hl=en
+- ORCID: https://orcid.org/0000-0003-4774-1845
