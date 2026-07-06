@@ -1,49 +1,46 @@
 # Nidhin Mahesh
 
-> Senior software engineer specializing in distributed systems, blockchain infrastructure, Zero Knowledge proofs, and mobile development (Flutter). Open to engineering roles.
+> Senior software engineer with 5+ years building blockchain protocols and distributed systems. Co-led development of the Rubix Layer 1 protocol (Proof-of-Pledge consensus, gasless transactions) and a zero-knowledge rollup on zkEVM at Jupiter Meta; shipped production self-custody wallets, staking systems, and payment infrastructure. Author of four peer-reviewed papers on blockchain security and decentralized systems.
 
 ## About
 
-Nidhin Mahesh is a senior software engineer with deep expertise in distributed ledger technology and blockchain infrastructure. He previously served as Lead Engineer at Jupiter Meta (ZK Rollup on zkEVM) and co-led the Rubix Layer 1 Blockchain Protocol — building payment interfaces, staking mechanisms, and on-chain wallets for a no-gas-fee, green L1 platform.
+Nidhin Mahesh is a senior software engineer specializing in blockchain protocols and distributed systems. He currently works independently on Fexr, a production-grade Web3 infrastructure platform scaled from a single-chain custody solution to a multi-chain settlement layer. Previously, he was a founding engineering team member at Jupiter Meta (JMDT blockchain, a zero-knowledge rollup on zkEVM) and co-led the Rubix Layer 1 Blockchain Protocol — building core protocol services, the network's first native wallet with DID support, and leading the full migration of the protocol stack from Spring Boot to Golang.
 
-He holds a Bachelor's in Technology from Amrita University, where he led the Google Developer Student Club and FOSS Club. His published research spans blockchain applications in energy markets, social media DRM, and decentralized mobility infrastructure.
+He holds a Bachelor's in Technology from Amrita University, where he led the Google Developer Student Club and contributed through the FOSS club — ranked top-10 nationally for Google Summer of Code selections. His published research spans blockchain security, V2X message verification, energy markets, social media DRM, and decentralized mobility infrastructure.
 
 ## Skills
 
-- Distributed Systems & Blockchain Infrastructure
-- Zero Knowledge Proofs (zkEVM, ZK Rollup)
-- Layer 1 & Layer 2 Protocol Development
-- Flutter Mobile Development
-- Service Mesh & Edge AI
-- On-chain payment systems, staking mechanisms, oracle systems
-- Raspberry Pi / ARM-based distributed testbeds
+- Languages: Golang, Rust, Solidity, Java, Python, TypeScript, Dart
+- Blockchain: L1 protocol design, ZK rollups / zkEVM, consensus (Proof-of-Pledge), smart contracts, self-custody wallets, P2P networking, Hyperledger Fabric, IPFS, tokenomics, DeFi
+- Platform: Spring Boot, REST API design, FastAPI, Next.js, Flutter, Docker, Kubernetes, CI/CD, microservices
 
 ## Experience
 
-- Lead Engineer, Jupiter Meta — ZK Rollup on zkEVM for consumer-derived insights on Indian markets
-- Lead Engineer, Rubixchain — Co-led development of Rubix Layer 1 blockchain protocol
-- Blockchain Developer, TIFAC Core in Cyber Security, Coimbatore, India
-- Blockchain Intern, Center for Wireless Networks & Applications, Kerala, India
-
-## Indie Projects
-
-- **Fexr** — Independent project building infrastructure that turns crypto expertise into a service. Club model, staking strategies, and oracle systems package active management into passive yield instruments for passive holders.
+- Full-Stack Developer (Indie Project), Fexr · Self-employed — Dubai, UAE · Remote (Sep 2025 – Present). Architected and deployed a production-grade Web3 infrastructure platform, scaling it from a single-chain custody solution to a multi-chain settlement layer; engineered agentic trading engines and smart-contract systems while owning the full cloud-native deployment pipeline solo.
+- Lead Engineer, Jupiter Meta — Hyderabad, India (Nov 2024 – Aug 2025). Founding engineering team member; contributed to the design and launch of the JMDT blockchain, an in-house zero-knowledge rollup on zkEVM. Designed ZK circuit architectures and proof-verification pipelines.
+- Lead Engineer — Rubix Layer 1 Blockchain Protocol, Rubix Network — Hyderabad, India (Mar 2021 – Nov 2024). Coordinated the engineering team behind testnet and mainnet infrastructure; delivered the network's first native wallet with Decentralized Identifier (DID) support; built core protocol services (P2P networking, transaction processing, Proof-of-Pledge consensus, asset custody); led the full migration from Spring Boot to Golang (2023).
+- Research Assistant, TIFAC-CORE in Cyber Security — Coimbatore, India (Jan 2020 – Apr 2020). Developed a secure, permissioned blockchain architecture for immutable data provenance and audit trails for a national defense organization.
+- Research Intern, Amrita Center for Wireless Networks & Applications — Kollam, India (Jun 2019 – Sep 2019). Built a Hyperledger blockchain test-bed of 7 Raspberry Pi nodes running Golang smart contracts; validated P2P energy-trading workflows on constrained IoT hardware.
+- Writer, Towards Data Science · Freelance — Remote (Dec 2017 – May 2018). Authored machine-learning tutorials and technical guides on TensorFlow.
 
 ## Publications
 
-- "Blockchain Framework for Social Media DRM based on Secret Sharing" — Springer ICTIS 2020, Ahmedabad
-- "Conceptualizing Blockchain based Energy Market for Self Sustainable Community" — BlockSys 2019, Columbia University, New York
-- "Decentralized Power System and Future Mobility: Community Driven EV Charging Infrastructure" — TESCA 2019, Columbia University, New York
+- "Smartverse: Blockchain-Based Crowdsourced V2X Message Verification and Dissemination System" — 15th Int'l Conference on Communication Systems & Networks (COMSNETS), 2023
+- "Blockchain Framework for Social Media DRM Based on Secret Sharing" — Springer, Int'l Conference on ICT for Intelligent Systems (ICTIS), 2021
+- "Conceptualizing Blockchain-Based Energy Market for Self-Sustainable Community" — ACM BlockSys Workshop @ SenSys, New York, 2019
+- "Decentralized Power System and Future Mobility: The Use Cases of Community-Driven Electric Vehicle Charging Infrastructure" — ACM Int'l Workshop on Smart Cities and Communities (TESCA), 2019
 
 ## Education
 
-- Bachelor's in Technology, Amrita University
-- Led Google Developer Student Club and Free and Open-Source Software Club
+- B.Tech, Computer Science & Engineering, Amrita School of Engineering, Amritapuri (2016 – 2020)
+- Led the Google Developer Student Club and contributed through the FOSS club — ranked top-10 nationally for Google Summer of Code selections
 
 ## Contact
 
 - Email: nidhinmahesh1@gmail.com
+- Location: Kannur, Kerala, India (IST)
 - GitHub: https://github.com/nidhinmahesh
+- GitLab: https://gitlab.com/nidhin.fexr
 - LinkedIn: https://linkedin.com/in/nidhinmahesh/
 - Twitter: https://twitter.com/nidhin_mahesh
 - Medium: https://medium.com/@nidhinmahesh
