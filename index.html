@@ -8,6 +8,7 @@
   <title>Nidhin Mahesh — Senior Software Engineer | Blockchain Protocols &amp; Distributed Systems</title>
   <meta name="description" content="Senior software engineer with 5+ years building blockchain protocols and distributed systems — Rubix Layer 1 (Proof-of-Pledge), ZK rollups on zkEVM, self-custody wallets, and payment infrastructure." />
   <link rel="canonical" href="https://nidhinmahesh.github.io/" />
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
 
   <!-- Open Graph -->
   <meta property="og:title" content="Nidhin Mahesh — Senior Software Engineer" />
@@ -43,28 +44,55 @@
   <link rel="stylesheet" type="text/css" href="https://nidhinmahesh.github.io/css/normalize.css" />
   <link rel="stylesheet" type="text/css" href="https://nidhinmahesh.github.io/css/main.css" />
 
+  <!-- Scroll animations are gated behind this class; no-JS clients and crawlers see full content -->
+  <script>document.documentElement.classList.add('js');</script>
+
   <!-- JSON-LD Structured Data -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Person",
-    "name": "Nidhin Mahesh A",
-    "url": "https://nidhinmahesh.github.io",
-    "email": "nidhinmahesh1@gmail.com",
-    "jobTitle": "Senior Software Engineer",
-    "alumniOf": {
-      "@type": "CollegeOrUniversity",
-      "name": "Amrita University"
-    },
-    "knowsAbout": ["Blockchain Protocols", "Distributed Systems", "L1 Protocol Design", "ZK Rollups", "zkEVM", "Proof-of-Pledge Consensus", "Self-Custody Wallets", "Golang", "Rust", "Solidity"],
-    "sameAs": [
-      "https://github.com/nidhinmahesh",
-      "https://gitlab.com/nidhin.fexr",
-      "https://twitter.com/nidhin_mahesh",
-      "https://linkedin.com/in/nidhinmahesh/",
-      "https://medium.com/@nidhinmahesh",
-      "https://scholar.google.com/citations?user=Vt3x8ukAAAAJ&hl=en",
-      "https://orcid.org/0000-0003-4774-1845"
+    "@graph": [
+      {
+        "@type": "ProfilePage",
+        "@id": "https://nidhinmahesh.github.io/#page",
+        "url": "https://nidhinmahesh.github.io/",
+        "dateModified": "2026-07-07",
+        "mainEntity": { "@id": "https://nidhinmahesh.github.io/#person" }
+      },
+      {
+        "@type": "Person",
+        "@id": "https://nidhinmahesh.github.io/#person",
+        "name": "Nidhin Mahesh A",
+        "url": "https://nidhinmahesh.github.io",
+        "email": "nidhinmahesh1@gmail.com",
+        "image": "https://nidhinmahesh.github.io/nidhin.jpeg",
+        "jobTitle": "Senior Software Engineer",
+        "description": "Distributed ledger technology specialist with five years of experience building blockchain protocols and infrastructure, including consensus systems, self-custodial wallets, staking, and settlement layers. Builds Fexr; previously Lead Engineer at Jupiter Meta and Co-Lead on the Rubix Layer 1 protocol.",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Fexr"
+        },
+        "alumniOf": {
+          "@type": "CollegeOrUniversity",
+          "name": "Amrita University"
+        },
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Kannur",
+          "addressRegion": "Kerala",
+          "addressCountry": "IN"
+        },
+        "knowsAbout": ["Blockchain Protocols", "Distributed Systems", "L1 Protocol Design", "ZK Rollups", "zkEVM", "Proof-of-Pledge Consensus", "Self-Custody Wallets", "Golang", "Rust", "Solidity"],
+        "sameAs": [
+          "https://github.com/nidhinmahesh",
+          "https://gitlab.com/nidhin.fexr",
+          "https://twitter.com/nidhin_mahesh",
+          "https://linkedin.com/in/nidhinmahesh/",
+          "https://medium.com/@nidhinmahesh",
+          "https://scholar.google.com/citations?user=Vt3x8ukAAAAJ&hl=en",
+          "https://orcid.org/0000-0003-4774-1845"
+        ]
+      }
     ]
   }
   </script>
@@ -108,13 +136,22 @@
     <section class="section fade-in" id="about" aria-label="About">
       <h2>About</h2>
       <p>
-        Nidhin Mahesh is a senior software engineer with 5+ years building blockchain protocols and distributed systems. He currently works independently on Fexr, a production-grade Web3 infrastructure platform that has grown from a single-chain custody solution into a multi-chain settlement layer with agentic trading engines and smart-contract systems.
+        Nidhin is a distributed ledger technology specialist with five years of experience building blockchain protocols and infrastructure, including consensus systems, self-custodial wallets, staking, and settlement layers.
       </p>
       <p>
-        Previously, as a founding engineering team member at Jupiter Meta, he contributed to the design and launch of the JMDT blockchain — an in-house zero-knowledge rollup on zkEVM — designing ZK circuit architectures and proof-verification pipelines. Before that, he co-led development of the Rubix Layer 1 protocol: core protocol services (P2P networking, Proof-of-Pledge consensus, asset custody), the network's first native wallet with Decentralized Identifier support, and the full migration of the protocol stack from Spring Boot to Golang.
+        He currently builds Fexr, an independent Web3 infrastructure platform that evolved from a single chain custody solution into a multichain settlement layer with agentic trading engines and smart contract integrations. He owns the full stack, managing protocol integrations, backend services for secure DeFi interactions, and the cloud-native deployment pipeline.
       </p>
       <p>
-        Nidhin holds a Bachelor's in Technology from Amrita University, where he led the Google Developer Student Club and contributed through the FOSS club — ranked top-10 nationally for Google Summer of Code selections. He is the author of four peer-reviewed papers on blockchain security and decentralized systems, in collaboration with Amrita Wireless Networks and TIFAC-CORE in Cyber Security.
+        Previously, as Lead Engineer at Jupiter Meta, he was a founding engineering team member for the JMDT blockchain, a zero-knowledge rollup on zkEVM built to streamline internal asset settlement. He designed the ZK circuit architectures and proof-verification pipelines core to the product roadmap.
+      </p>
+      <p>
+        Before that, as Co-Lead on the Rubix Layer 1 protocol, he helped develop the zero-gas-fee Proof-of-Pledge network from testnet through mainnet. He delivered the first native wallet for the network, introducing Decentralized Identifier support via an early implementation of image-based nonlinear secret sharing. He built core protocol services including peer-to-peer networking, transaction processing, consensus, and asset custody. In 2023, he led the full migration of the protocol stack from Spring Boot to Golang, cutting memory footprint and improving runtime performance while driving open-source development and developer onboarding.
+      </p>
+      <p>
+        His research spans cyber security and decentralized systems. He developed a permissioned blockchain architecture for data provenance for a national defense organization at TIFAC-CORE in Cyber Security, and a Hyperledger testbed for peer-to-peer energy trading on IoT hardware at the Amrita Center for Wireless Networks and Applications. He authored four peer-reviewed papers on blockchain security, V2X message verification, energy markets, and decentralized mobility, published across IEEE COMSNETS, Springer ICTIS, and ACM workshops at SenSys.
+      </p>
+      <p>
+        At Amrita University, Nidhin led the Google Developer Student Club and contributed to the FOSS club, ranked in the top 10 nationally for Google Summer of Code selections. He now works at the intersection of engineering and go-to-market strategy, helping teams evaluate, integrate, and adopt digital asset infrastructure.
       </p>
       <p class="interests"><strong>Core skills:</strong> Golang &nbsp;·&nbsp; Rust &nbsp;·&nbsp; Solidity &nbsp;·&nbsp; L1 protocol design &nbsp;·&nbsp; ZK rollups &nbsp;·&nbsp; Self-custody wallets &nbsp;·&nbsp; DeFi</p>
     </section>

@@ -427,14 +427,14 @@ a.tl-title:hover {
   color: var(--text);
 }
 
-/* === Scroll Animations === */
-.fade-in {
+/* === Scroll Animations (only when JS is present; no-JS and crawlers see everything) === */
+.js .fade-in {
   opacity: 0;
   transform: translateY(6px);
   transition: opacity 0.45s ease, transform 0.45s ease;
 }
 
-.fade-in.visible {
+.js .fade-in.visible {
   opacity: 1;
   transform: translateY(0);
 }

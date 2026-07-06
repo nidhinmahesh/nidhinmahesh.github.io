@@ -2,11 +2,17 @@
 
 > Senior software engineer with 5+ years building blockchain protocols and distributed systems. Co-led development of the Rubix Layer 1 protocol (Proof-of-Pledge consensus, gasless transactions) and a zero-knowledge rollup on zkEVM at Jupiter Meta; shipped production self-custody wallets, staking systems, and payment infrastructure. Author of four peer-reviewed papers on blockchain security and decentralized systems.
 
+## Key Resources
+
+- [Homepage](https://nidhinmahesh.github.io/): Bio, experience timeline, and publications
+- [CV (PDF)](https://nidhinmahesh.github.io/nidhinmahesh_CV_.pdf): Full resume
+- [Google Scholar](https://scholar.google.com/citations?user=Vt3x8ukAAAAJ&hl=en): Peer-reviewed publications
+
 ## About
 
-Nidhin Mahesh is a senior software engineer specializing in blockchain protocols and distributed systems. He currently works independently on Fexr, a production-grade Web3 infrastructure platform scaled from a single-chain custody solution to a multi-chain settlement layer. Previously, he was a founding engineering team member at Jupiter Meta (JMDT blockchain, a zero-knowledge rollup on zkEVM) and co-led the Rubix Layer 1 Blockchain Protocol — building core protocol services, the network's first native wallet with DID support, and leading the full migration of the protocol stack from Spring Boot to Golang.
+Nidhin is a distributed ledger technology specialist with five years of experience building blockchain protocols and infrastructure, including consensus systems, self-custodial wallets, staking, and settlement layers. He currently builds Fexr, an independent Web3 infrastructure platform that evolved from a single chain custody solution into a multichain settlement layer with agentic trading engines and smart contract integrations. Previously, as Lead Engineer at Jupiter Meta, he was a founding engineering team member for the JMDT blockchain, a zero-knowledge rollup on zkEVM. Before that, as Co-Lead on the Rubix Layer 1 protocol, he helped develop the zero-gas-fee Proof-of-Pledge network from testnet through mainnet and led the full migration of the protocol stack from Spring Boot to Golang.
 
-He holds a Bachelor's in Technology from Amrita University, where he led the Google Developer Student Club and contributed through the FOSS club — ranked top-10 nationally for Google Summer of Code selections. His published research spans blockchain security, V2X message verification, energy markets, social media DRM, and decentralized mobility infrastructure.
+His research spans cyber security and decentralized systems, with four peer-reviewed papers published across IEEE COMSNETS, Springer ICTIS, and ACM workshops at SenSys. At Amrita University, he led the Google Developer Student Club and contributed to the FOSS club, ranked in the top 10 nationally for Google Summer of Code selections. He now works at the intersection of engineering and go-to-market strategy, helping teams evaluate, integrate, and adopt digital asset infrastructure.
 
 ## Skills
 
@@ -25,7 +31,7 @@ He holds a Bachelor's in Technology from Amrita University, where he led the Goo
 
 ## Publications
 
-- "Smartverse: Blockchain-Based Crowdsourced V2X Message Verification and Dissemination System" — 15th Int'l Conference on Communication Systems & Networks (COMSNETS), 2023
+- "Smartverse: Blockchain-Based Crowdsourced V2X Message Verification and Dissemination System" — 15th Int'l Conference on Communication Systems & Networks (COMSNETS), 2023 — https://doi.org/10.1109/COMSNETS56262.2023.10041363
 - "Blockchain Framework for Social Media DRM Based on Secret Sharing" — Springer, Int'l Conference on ICT for Intelligent Systems (ICTIS), 2021
 - "Conceptualizing Blockchain-Based Energy Market for Self-Sustainable Community" — ACM BlockSys Workshop @ SenSys, New York, 2019
 - "Decentralized Power System and Future Mobility: The Use Cases of Community-Driven Electric Vehicle Charging Infrastructure" — ACM Int'l Workshop on Smart Cities and Communities (TESCA), 2019
@@ -46,3 +52,5 @@ He holds a Bachelor's in Technology from Amrita University, where he led the Goo
 - Medium: https://medium.com/@nidhinmahesh
 - Google Scholar: https://scholar.google.com/citations?user=Vt3x8ukAAAAJ&hl=en
 - ORCID: https://orcid.org/0000-0003-4774-1845
+
+Last updated: 2026-07-07
